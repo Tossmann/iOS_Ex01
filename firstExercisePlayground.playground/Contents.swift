@@ -25,3 +25,5 @@ if errCode != nil{
 if let actualCode = errCode {       //Mit dem ! wie bei print(errCode!) wird gesagt, dass jetzt auf jeden Fall ein Integer Wert in errCode steht -> wenn du das falsch programmierst führt das beispielsweise zum Absturz
     print(actualCode)
 }
+
+print("Nico ist am Start")
