@@ -26,4 +26,4 @@ if let actualCode = errCode {       //Mit dem ! wie bei print(errCode!) wird ges
     print(actualCode)
 }
 
-print("Nico ist am Start")
+print("Nico ist jetzt noch mehr am Start")
